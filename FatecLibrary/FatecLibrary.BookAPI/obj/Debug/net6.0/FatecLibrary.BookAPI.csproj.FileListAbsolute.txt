@@ -1,0 +1,86 @@
+E:\fatec\TESI\FatecLibrary\FatecLibrary\FatecLibrary.BookAPI\bin\Debug\net6.0\appsettings.Development.json
+E:\fatec\TESI\FatecLibrary\FatecLibrary\FatecLibrary.BookAPI\bin\Debug\net6.0\appsettings.json
+E:\fatec\TESI\FatecLibrary\FatecLibrary\FatecLibrary.BookAPI\bin\Debug\net6.0\FatecLibrary.BookAPI.exe
+E:\fatec\TESI\FatecLibrary\FatecLibrary\FatecLibrary.BookAPI\bin\Debug\net6.0\FatecLibrary.BookAPI.deps.json
+E:\fatec\TESI\FatecLibrary\FatecLibrary\FatecLibrary.BookAPI\bin\Debug\net6.0\FatecLibrary.BookAPI.runtimeconfig.json
+E:\fatec\TESI\FatecLibrary\FatecLibrary\FatecLibrary.BookAPI\bin\Debug\net6.0\FatecLibrary.BookAPI.dll
+E:\fatec\TESI\FatecLibrary\FatecLibrary\FatecLibrary.BookAPI\bin\Debug\net6.0\FatecLibrary.BookAPI.pdb
+E:\fatec\TESI\FatecLibrary\FatecLibrary\FatecLibrary.BookAPI\bin\Debug\net6.0\AutoMapper.dll
+E:\fatec\TESI\FatecLibrary\FatecLibrary\FatecLibrary.BookAPI\bin\Debug\net6.0\Humanizer.dll
+E:\fatec\TESI\FatecLibrary\FatecLibrary\FatecLibrary.BookAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\fatec\TESI\FatecLibrary\FatecLibrary\FatecLibrary.BookAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\fatec\TESI\FatecLibrary\FatecLibrary\FatecLibrary.BookAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\fatec\TESI\FatecLibrary\FatecLibrary\FatecLibrary.BookAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\fatec\TESI\FatecLibrary\FatecLibrary\FatecLibrary.BookAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\fatec\TESI\FatecLibrary\FatecLibrary\FatecLibrary.BookAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\fatec\TESI\FatecLibrary\FatecLibrary\FatecLibrary.BookAPI\bin\Debug\net6.0\MySqlConnector.dll
+E:\fatec\TESI\FatecLibrary\FatecLibrary\FatecLibrary.BookAPI\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+E:\fatec\TESI\FatecLibrary\FatecLibrary\FatecLibrary.BookAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\fatec\TESI\FatecLibrary\FatecLibrary\FatecLibrary.BookAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\fatec\TESI\FatecLibrary\FatecLibrary\FatecLibrary.BookAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\fatec\TESI\FatecLibrary\FatecLibrary\FatecLibrary.BookAPI\obj\Debug\net6.0\FatecLibrary.BookAPI.csproj.AssemblyReference.cache
+E:\fatec\TESI\FatecLibrary\FatecLibrary\FatecLibrary.BookAPI\obj\Debug\net6.0\FatecLibrary.BookAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\fatec\TESI\FatecLibrary\FatecLibrary\FatecLibrary.BookAPI\obj\Debug\net6.0\FatecLibrary.BookAPI.AssemblyInfoInputs.cache
+E:\fatec\TESI\FatecLibrary\FatecLibrary\FatecLibrary.BookAPI\obj\Debug\net6.0\FatecLibrary.BookAPI.AssemblyInfo.cs
+E:\fatec\TESI\FatecLibrary\FatecLibrary\FatecLibrary.BookAPI\obj\Debug\net6.0\FatecLibrary.BookAPI.csproj.CoreCompileInputs.cache
+E:\fatec\TESI\FatecLibrary\FatecLibrary\FatecLibrary.BookAPI\obj\Debug\net6.0\FatecLibrary.BookAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\fatec\TESI\FatecLibrary\FatecLibrary\FatecLibrary.BookAPI\obj\Debug\net6.0\FatecLibrary.BookAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\fatec\TESI\FatecLibrary\FatecLibrary\FatecLibrary.BookAPI\obj\Debug\net6.0\staticwebassets\msbuild.FatecLibrary.BookAPI.Microsoft.AspNetCore.StaticWebAssets.props
+E:\fatec\TESI\FatecLibrary\FatecLibrary\FatecLibrary.BookAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.FatecLibrary.BookAPI.props
+E:\fatec\TESI\FatecLibrary\FatecLibrary\FatecLibrary.BookAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FatecLibrary.BookAPI.props
+E:\fatec\TESI\FatecLibrary\FatecLibrary\FatecLibrary.BookAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FatecLibrary.BookAPI.props
+E:\fatec\TESI\FatecLibrary\FatecLibrary\FatecLibrary.BookAPI\obj\Debug\net6.0\staticwebassets.pack.json
+E:\fatec\TESI\FatecLibrary\FatecLibrary\FatecLibrary.BookAPI\obj\Debug\net6.0\staticwebassets.build.json
+E:\fatec\TESI\FatecLibrary\FatecLibrary\FatecLibrary.BookAPI\obj\Debug\net6.0\staticwebassets.development.json
+E:\fatec\TESI\FatecLibrary\FatecLibrary\FatecLibrary.BookAPI\obj\Debug\net6.0\scopedcss\bundle\FatecLibrary.BookAPI.styles.css
+E:\fatec\TESI\FatecLibrary\FatecLibrary\FatecLibrary.BookAPI\obj\Debug\net6.0\FatecLibrary.BookAPI.csproj.CopyComplete
+E:\fatec\TESI\FatecLibrary\FatecLibrary\FatecLibrary.BookAPI\obj\Debug\net6.0\FatecLibrary.BookAPI.dll
+E:\fatec\TESI\FatecLibrary\FatecLibrary\FatecLibrary.BookAPI\obj\Debug\net6.0\refint\FatecLibrary.BookAPI.dll
+E:\fatec\TESI\FatecLibrary\FatecLibrary\FatecLibrary.BookAPI\obj\Debug\net6.0\FatecLibrary.BookAPI.pdb
+E:\fatec\TESI\FatecLibrary\FatecLibrary\FatecLibrary.BookAPI\obj\Debug\net6.0\FatecLibrary.BookAPI.genruntimeconfig.cache
+E:\fatec\TESI\FatecLibrary\FatecLibrary\FatecLibrary.BookAPI\obj\Debug\net6.0\ref\FatecLibrary.BookAPI.dll
+E:\fatec\TESI\FatecLibrary\FatecLibrary\FatecLibrary.BookAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\fatec\TESI\FatecLibrary\FatecLibrary\FatecLibrary.BookAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\FATEC\5º Semestre 2023\Tópicos Especiais em Sistemas para Internet II\SRC\FatecLibrary\FatecLibrary.BookAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\FATEC\5º Semestre 2023\Tópicos Especiais em Sistemas para Internet II\SRC\FatecLibrary\FatecLibrary.BookAPI\bin\Debug\net6.0\appsettings.json
+D:\FATEC\5º Semestre 2023\Tópicos Especiais em Sistemas para Internet II\SRC\FatecLibrary\FatecLibrary.BookAPI\bin\Debug\net6.0\FatecLibrary.BookAPI.exe
+D:\FATEC\5º Semestre 2023\Tópicos Especiais em Sistemas para Internet II\SRC\FatecLibrary\FatecLibrary.BookAPI\bin\Debug\net6.0\FatecLibrary.BookAPI.deps.json
+D:\FATEC\5º Semestre 2023\Tópicos Especiais em Sistemas para Internet II\SRC\FatecLibrary\FatecLibrary.BookAPI\bin\Debug\net6.0\FatecLibrary.BookAPI.runtimeconfig.json
+D:\FATEC\5º Semestre 2023\Tópicos Especiais em Sistemas para Internet II\SRC\FatecLibrary\FatecLibrary.BookAPI\bin\Debug\net6.0\FatecLibrary.BookAPI.dll
+D:\FATEC\5º Semestre 2023\Tópicos Especiais em Sistemas para Internet II\SRC\FatecLibrary\FatecLibrary.BookAPI\bin\Debug\net6.0\FatecLibrary.BookAPI.pdb
+D:\FATEC\5º Semestre 2023\Tópicos Especiais em Sistemas para Internet II\SRC\FatecLibrary\FatecLibrary.BookAPI\bin\Debug\net6.0\AutoMapper.dll
+D:\FATEC\5º Semestre 2023\Tópicos Especiais em Sistemas para Internet II\SRC\FatecLibrary\FatecLibrary.BookAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\FATEC\5º Semestre 2023\Tópicos Especiais em Sistemas para Internet II\SRC\FatecLibrary\FatecLibrary.BookAPI\bin\Debug\net6.0\Humanizer.dll
+D:\FATEC\5º Semestre 2023\Tópicos Especiais em Sistemas para Internet II\SRC\FatecLibrary\FatecLibrary.BookAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\FATEC\5º Semestre 2023\Tópicos Especiais em Sistemas para Internet II\SRC\FatecLibrary\FatecLibrary.BookAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\FATEC\5º Semestre 2023\Tópicos Especiais em Sistemas para Internet II\SRC\FatecLibrary\FatecLibrary.BookAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\FATEC\5º Semestre 2023\Tópicos Especiais em Sistemas para Internet II\SRC\FatecLibrary\FatecLibrary.BookAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\FATEC\5º Semestre 2023\Tópicos Especiais em Sistemas para Internet II\SRC\FatecLibrary\FatecLibrary.BookAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\FATEC\5º Semestre 2023\Tópicos Especiais em Sistemas para Internet II\SRC\FatecLibrary\FatecLibrary.BookAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\FATEC\5º Semestre 2023\Tópicos Especiais em Sistemas para Internet II\SRC\FatecLibrary\FatecLibrary.BookAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\FATEC\5º Semestre 2023\Tópicos Especiais em Sistemas para Internet II\SRC\FatecLibrary\FatecLibrary.BookAPI\bin\Debug\net6.0\MySqlConnector.dll
+D:\FATEC\5º Semestre 2023\Tópicos Especiais em Sistemas para Internet II\SRC\FatecLibrary\FatecLibrary.BookAPI\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\FATEC\5º Semestre 2023\Tópicos Especiais em Sistemas para Internet II\SRC\FatecLibrary\FatecLibrary.BookAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\FATEC\5º Semestre 2023\Tópicos Especiais em Sistemas para Internet II\SRC\FatecLibrary\FatecLibrary.BookAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\FATEC\5º Semestre 2023\Tópicos Especiais em Sistemas para Internet II\SRC\FatecLibrary\FatecLibrary.BookAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\FATEC\5º Semestre 2023\Tópicos Especiais em Sistemas para Internet II\SRC\FatecLibrary\FatecLibrary.BookAPI\obj\Debug\net6.0\FatecLibrary.BookAPI.csproj.AssemblyReference.cache
+D:\FATEC\5º Semestre 2023\Tópicos Especiais em Sistemas para Internet II\SRC\FatecLibrary\FatecLibrary.BookAPI\obj\Debug\net6.0\FatecLibrary.BookAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\FATEC\5º Semestre 2023\Tópicos Especiais em Sistemas para Internet II\SRC\FatecLibrary\FatecLibrary.BookAPI\obj\Debug\net6.0\FatecLibrary.BookAPI.AssemblyInfoInputs.cache
+D:\FATEC\5º Semestre 2023\Tópicos Especiais em Sistemas para Internet II\SRC\FatecLibrary\FatecLibrary.BookAPI\obj\Debug\net6.0\FatecLibrary.BookAPI.AssemblyInfo.cs
+D:\FATEC\5º Semestre 2023\Tópicos Especiais em Sistemas para Internet II\SRC\FatecLibrary\FatecLibrary.BookAPI\obj\Debug\net6.0\FatecLibrary.BookAPI.csproj.CoreCompileInputs.cache
+D:\FATEC\5º Semestre 2023\Tópicos Especiais em Sistemas para Internet II\SRC\FatecLibrary\FatecLibrary.BookAPI\obj\Debug\net6.0\FatecLibrary.BookAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\FATEC\5º Semestre 2023\Tópicos Especiais em Sistemas para Internet II\SRC\FatecLibrary\FatecLibrary.BookAPI\obj\Debug\net6.0\FatecLibrary.BookAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\FATEC\5º Semestre 2023\Tópicos Especiais em Sistemas para Internet II\SRC\FatecLibrary\FatecLibrary.BookAPI\obj\Debug\net6.0\staticwebassets\msbuild.FatecLibrary.BookAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\FATEC\5º Semestre 2023\Tópicos Especiais em Sistemas para Internet II\SRC\FatecLibrary\FatecLibrary.BookAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.FatecLibrary.BookAPI.props
+D:\FATEC\5º Semestre 2023\Tópicos Especiais em Sistemas para Internet II\SRC\FatecLibrary\FatecLibrary.BookAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FatecLibrary.BookAPI.props
+D:\FATEC\5º Semestre 2023\Tópicos Especiais em Sistemas para Internet II\SRC\FatecLibrary\FatecLibrary.BookAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FatecLibrary.BookAPI.props
+D:\FATEC\5º Semestre 2023\Tópicos Especiais em Sistemas para Internet II\SRC\FatecLibrary\FatecLibrary.BookAPI\obj\Debug\net6.0\staticwebassets.pack.json
+D:\FATEC\5º Semestre 2023\Tópicos Especiais em Sistemas para Internet II\SRC\FatecLibrary\FatecLibrary.BookAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\FATEC\5º Semestre 2023\Tópicos Especiais em Sistemas para Internet II\SRC\FatecLibrary\FatecLibrary.BookAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\FATEC\5º Semestre 2023\Tópicos Especiais em Sistemas para Internet II\SRC\FatecLibrary\FatecLibrary.BookAPI\obj\Debug\net6.0\scopedcss\bundle\FatecLibrary.BookAPI.styles.css
+D:\FATEC\5º Semestre 2023\Tópicos Especiais em Sistemas para Internet II\SRC\FatecLibrary\FatecLibrary.BookAPI\obj\Debug\net6.0\FatecLibrary.BookAPI.csproj.CopyComplete
+D:\FATEC\5º Semestre 2023\Tópicos Especiais em Sistemas para Internet II\SRC\FatecLibrary\FatecLibrary.BookAPI\obj\Debug\net6.0\FatecLibrary.BookAPI.dll
+D:\FATEC\5º Semestre 2023\Tópicos Especiais em Sistemas para Internet II\SRC\FatecLibrary\FatecLibrary.BookAPI\obj\Debug\net6.0\refint\FatecLibrary.BookAPI.dll
+D:\FATEC\5º Semestre 2023\Tópicos Especiais em Sistemas para Internet II\SRC\FatecLibrary\FatecLibrary.BookAPI\obj\Debug\net6.0\FatecLibrary.BookAPI.pdb
+D:\FATEC\5º Semestre 2023\Tópicos Especiais em Sistemas para Internet II\SRC\FatecLibrary\FatecLibrary.BookAPI\obj\Debug\net6.0\FatecLibrary.BookAPI.genruntimeconfig.cache
+D:\FATEC\5º Semestre 2023\Tópicos Especiais em Sistemas para Internet II\SRC\FatecLibrary\FatecLibrary.BookAPI\obj\Debug\net6.0\ref\FatecLibrary.BookAPI.dll
